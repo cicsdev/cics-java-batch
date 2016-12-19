@@ -1,12 +1,12 @@
 cics-java-batch
 ================
-Sample CICS Java batch application to use a batchlet to print CICS task number
+Sample CICS Java batch application to use a batchlet to print the CICS task number
 
 The following components are supplied in this repository.
 
-## Java package com.ibm.cicsdev.btach
+## Java package com.ibm.cicsdev.batch
 Source code for the following Java class is available in the src/com/ibm/cicsdev/batch  directory 
-* simpleBatchlet.java - A simple batchlet to print CICS task number
+* simpleBatchlet.java - A simple batchlet to print the CICS task number
 
 ## Supporting files
 * /etc/META-INF/batch-jobs/simpleBatchlet.xml - JSL sample to run the Java batchlet
