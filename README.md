@@ -21,6 +21,6 @@ Source code for the following Java class is available in the [`src/com/ibm/cicsd
   * [WebSphere Developer Tools for Eclipse Luna](https://developer.ibm.com/wasdev/downloads/#asset/tools-WebSphere_Developer_Tools_for_Eclipse_Luna)
 
 ## Configuration
-Please refer to [Java batch in CICS tutorial](https://developer.ibm.com/cics/2016/10/04/java-batch-in-cics-tutorial/)
+Please refer to [Java batch in CICS tutorial](https://github.com/cicsdev/blog-cics-java-batch/blob/main/blog-tutorial.md)
 for the configuration steps.
 
